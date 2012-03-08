@@ -1,0 +1,11 @@
+Arduino Sketches
+================
+
+This is a repository of Arduino hacks.
+
+
+MotionBlinker
+-------------
+
+Motion blinker is a very basic sketch that turns on a LED when no motion is detected and blinks a different LED when motion is detected.
+
